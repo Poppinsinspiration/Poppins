@@ -1,0 +1,24 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="poppinsinspiration.com" resolutions="1x" timestamp="1450423256795">
+  <folder name="images">
+    <file name="11988268_541713972652263_6026569934295122974_n-crop-u81.jpg" crc="4088166333" ref="index:contact:about"/>
+    <file name="screen shot 2015-12-18 at 50546 pm.jpg" crc="74715002" seo="true" ref="index:contact"/>
+    <file name="12274188_543949475762046_6526588951609974058_n.jpg" crc="3799205528" seo="true" ref="about"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="525933288" ref="index"/>
+    <file name="master_a-master.css" crc="154564480" ref="about:contact:index"/>
+    <file name="about.css" crc="4076540253" ref="about"/>
+    <file name="contact.css" crc="4213912315" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact:about"/>
+    <file name="museutils.js" crc="275725342" ref="index:contact:about"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:contact:about"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about"/>
+  </folder>
+  <file name="index.html" crc="249711620" seo="true" mt="1450422148738" redirect="true"/>
+  <file name="contact.html" crc="4144835521" seo="true" mt="1450422148738" redirect="true"/>
+  <file name="about.html" crc="3978834147" seo="true" mt="1450423175251" redirect="true"/>
+</manifest>
